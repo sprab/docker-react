@@ -13,7 +13,7 @@ class App extends Component {
           </p>
 
           <p>
-            Edit <code>src/App.js</code>changed!!!.
+            changed!!!.
           </p>
           <a
             className="App-link"
